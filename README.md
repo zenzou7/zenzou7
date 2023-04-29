@@ -4,7 +4,7 @@
 ## Skills:
 ![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![Javascript]([https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010](https://img.shields.io/badge/logo-javascript-blue?logo=javascript))</br>
 
 ## Find me at:
 
