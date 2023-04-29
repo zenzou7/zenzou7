@@ -15,5 +15,5 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/leonardolagos07@hotmail.com-Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]
+![Email](https://img.shields.io/badge/leonardolagos07@hotmail.com-Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
